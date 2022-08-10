@@ -1,6 +1,6 @@
 # stockRSI
 
-The link to the webpage is http://dustybroom.pythonanywhere.com/
+The link to the webpage is http://dustybroom.pythonanywhere.com/ (currently down)
 
 You must create a txt file (name doesn't matter) as this will be the file with all the stock tickers that you will be uploading.
 
